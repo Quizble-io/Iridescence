@@ -1,0 +1,8 @@
+.selectItemContainer {
+    display: grid;
+    place-items: center;
+}
+.selectItem {
+    grid-row: 1;
+    grid-column: 1;
+}
